@@ -14,6 +14,8 @@ This project is built for the ASE Challenge 2025 and demonstrates fullstack skil
 - Fully responsive interface
 
 ---
+Video-link:
+https://www.loom.com/share/b78d70dd03f742f9af6346fe3bba27b1?sid=bd46943d-580b-438f-8b1b-1e6bd256f02f
 
 ## Tech Stack
 - Backend: Django (Python)
@@ -87,7 +89,7 @@ SQLite chosen for easy local setup
 
 Each employee email must be unique
 
-Future Improvements
+Future Improvements:
 
 Pagination for large employee lists
 
@@ -97,7 +99,7 @@ Roles and permissions for admin/staff
 
 Switch to PostgreSQL/MySQL for production
 
-Author
+Author:
 
 Tammineni Kishore reddy
 
