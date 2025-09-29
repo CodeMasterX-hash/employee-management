@@ -43,7 +43,15 @@ employee_management/ <- Project root
 git clone https://github.com/<your-username>/employee-management.git
 cd employee-management
  Run Locally
-Usage
+Apply Migrations:
+
+Run Django migrations to set up the SQLite database:
+
+python manage.py makemigrations
+python manage.py migrate
+
+Run the Development Server:
+python manage.py runserver
 
 View all employees in a table
 
